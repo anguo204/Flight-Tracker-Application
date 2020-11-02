@@ -84,7 +84,7 @@ Customer Rep Password: rep1
 
 [x] Edit flight reservations for a customer
 
-[x] Add, Edit, Delete information for
+[x] Add, Edit, Delete information for:
     [x] aircrafts
     [x] airports 
     [x] flights 
